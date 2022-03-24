@@ -1,1 +1,1 @@
-# Python-SQLite-Tutorial
+# Python-SQLite-Tutorials 
